@@ -1,0 +1,14 @@
+{
+        "uri": "wc2014jpn.csv"
+,       "format": "edge_list"
+,       "node_id_type": "integer"
+,       "vertex_props": [
+                {"name":"name", "type":"string"}
+                ,{"name":"position", "type":"string"}
+        ]
+,       "edge_props":[
+                {"name":"matchid", "type":"string"}
+                ,{"name":"numofpasses", "type":"integer"}
+        ]
+,       "separator": ","
+}
