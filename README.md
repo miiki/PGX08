@@ -4,7 +4,7 @@ PGX (Parallel Graph AnalytiX) is a toolkit for graph analysis.
 
 PGXユーザ勉強会#8 (2018/06/20) 
 https://pgx.connpass.com/event/84918/
-で使用した資料とデータの置き場です。
+で使用した資料とデータを格納しています。
 
 - 20180620_PGXUserMeetup08_mk.pdf (当日資料)
 - Data
