@@ -2,8 +2,11 @@
 PGX (Parallel Graph AnalytiX) is a toolkit for graph analysis.
 - http://www.oracle.com/technetwork/oracle-labs/parallel-graph-analytix/overview/index.html
 
-PGXƒ†[ƒU•×‹­‰ï#8 (2018/06/20) ‚Åg—p‚µ‚½‘—¿‚Æƒf[ƒ^‚Ì’u‚«ê‚Å‚·B
-- 20180620_PGXUserMeetup08_mk.pdf (“–“ú‘—¿)
+PGXãƒ¦ãƒ¼ã‚¶å‹‰å¼·ä¼š#8 (2018/06/20) 
+https://pgx.connpass.com/event/84918/
+ã§ä½¿ç”¨ã—ãŸè³‡æ–™ã¨ãƒ‡ãƒ¼ã‚¿ã®ç½®ãå ´ã§ã™ã€‚
+
+- 20180620_PGXUserMeetup08_mk.pdf (å½“æ—¥è³‡æ–™)
 - Data
   + wc2014jpn
   + wc2018jpn_vsColombiaOnly
